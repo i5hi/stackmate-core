@@ -5,6 +5,7 @@ This library is now being actively developed here: https://github.com/i5hi/Stack
 
 This library will be updated here soon.
 
+### TLDR
 A Rust-C FFI library exposing composite functionality from [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin/) & [bdk](https://github.com/bitcoindevkit/bdk); to create cross-platform descriptor wallets.
 
 Currently used by [Stackmate Wallet](https://github.com/mocodesmo/stackmate).
