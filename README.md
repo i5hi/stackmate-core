@@ -1,7 +1,7 @@
 <h1 align="center">STACKMATE-CORE</h1>
 
 ### NOTE
-This library is now being actively developed [here](https://github.com/i5hi/StackmateNetwork/stackmate-core).
+This library is now being actively developed [here](https://github.com/StackmateNetwork/stackmate-core).
 
 This library will be updated here soon.
 
