@@ -1,5 +1,10 @@
 <h1 align="center">STACKMATE-CORE</h1>
 
+### NOTE
+This library is now being actively developed here: https://github.com/i5hi/StackmateNetwork/stackmate-core.git
+
+This library will be updated here soon.
+
 A Rust-C FFI library exposing composite functionality from [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin/) & [bdk](https://github.com/bitcoindevkit/bdk); to create cross-platform descriptor wallets.
 
 Currently used by [Stackmate Wallet](https://github.com/mocodesmo/stackmate).
